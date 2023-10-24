@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+let m=Math,
+console.log(m)
+console.log("The valuue of Math.e is:", Math.E)
+console.log("The valuue of Math.PI is:", Math.PI)
+console.log("The valuue of Math.LN2 is:", Math.LN2)
+vconsole.log("The valuue of Math.SQRT1.2 is:", Math.SQRT1.2)
+console.log("The valuue of Math.LOG2E is:", Math.LOG2E)
+
+let a=34.64534;
+let b-89;
+
+console.log("The valuue of a and b is:", a,b);
+console.log("The valuue of a and b rounded is:", Math.round(a), Math.round(b));
+</script>
+</head>
+<body>
+</body>
+</html>
